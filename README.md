@@ -1,5 +1,9 @@
 # Debugging CDK launch template name
 
+First: Change the VPC settings in `/lib/debug.ts` to match an existing VPC on your AWS account.
+
+Then:
+
 ```
 yarn install
 yarn build

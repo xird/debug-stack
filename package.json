@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@moia-oss/bastion-host-forward": "^1.3.0",
-    "aws-cdk": "2.103.1",
-    "aws-cdk-lib": "2.103.1",
+    "aws-cdk": "2.104.0",
+    "aws-cdk-lib": "2.104.0",
     "constructs": "^10.3.0",
     "source-map-support": "^0.5.16"
   },
