@@ -1,0 +1,4 @@
+dist
+lib
+cdk.out
+node_modules
