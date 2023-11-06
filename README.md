@@ -21,3 +21,11 @@ To clean up and try again:
 ```
 yarn clean
 ```
+
+## Solution:
+
+Add `"@aws-cdk/aws-ec2:uniqueImdsv2TemplateName": true` in `cdk.json`.
+
+Thanks to [@snowiow]( https://github.com/snowiow ) for helping me find this.
+
+
